@@ -1,2 +1,3 @@
 My first odin project to create a recipe.
-Skill used: HTML.
+This website contains three of my favourite dishes.
+Skill used: HTML (link, image, list)
